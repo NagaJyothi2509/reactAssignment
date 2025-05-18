@@ -2,7 +2,7 @@ steps to run this project in your local:
 
 1. Clone the repository
 Open a terminal or command prompt and run:
-git clone https://github.com/<your-username>/jsonplaceholder-demo.git
+git clone https://github.com/NagaJyothi2509/reactAssignment.git
 
 2. Navigate to the project directory
 cd reactassignment
